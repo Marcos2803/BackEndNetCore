@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\fourfit-sistema_gestao.Api.props" />
+</Project>

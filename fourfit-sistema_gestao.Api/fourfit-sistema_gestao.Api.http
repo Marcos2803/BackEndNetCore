@@ -1,0 +1,6 @@
+@fourfit_sistema_gestao.Api_HostAddress = http://localhost:5119
+
+GET {{fourfit_sistema_gestao.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

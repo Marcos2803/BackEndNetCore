@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\fourfit-sistema_gestao.Api.props" />
+</Project>
